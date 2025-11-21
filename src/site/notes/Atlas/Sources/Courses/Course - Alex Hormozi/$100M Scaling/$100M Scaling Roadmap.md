@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/sources/courses/course-alex-hormozi/100-m-scaling/100-m-scaling-roadmap/"}
+{"dg-publish":true,"permalink":"/atlas/sources/courses/course-alex-hormozi/100-m-scaling/100-m-scaling-roadmap/","created":"2025-11-07T15:08:36.384+08:00","updated":"2025-11-22T01:45:03.244+08:00"}
 ---
 
 # Elements of Scaling

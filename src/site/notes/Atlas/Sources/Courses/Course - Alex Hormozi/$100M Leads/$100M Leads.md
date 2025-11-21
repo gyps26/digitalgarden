@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/sources/courses/course-alex-hormozi/100-m-leads/100-m-leads/"}
+{"dg-publish":true,"permalink":"/atlas/sources/courses/course-alex-hormozi/100-m-leads/100-m-leads/","created":"2025-11-13T04:22:01.502+08:00","updated":"2025-11-22T01:45:13.273+08:00"}
 ---
 
 # START HERE:

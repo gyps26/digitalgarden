@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kortex/kortex/","tags":["kortex"]}
+{"dg-publish":true,"permalink":"/kortex/kortex/","tags":["kortex"],"created":"2025-11-22T01:21:35.954+08:00","updated":"2025-11-22T01:42:18.307+08:00"}
 ---
 
 Welcome to Kortex Wiki
