@@ -3,4 +3,7 @@
 ---
 
 This is the home of my digital garden yeyy
-/publish
+
+[[+KORTEX/Kortex\|Kortex]]
+
+/pub
