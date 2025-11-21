@@ -3,3 +3,4 @@
 ---
 
 This is the home of my digital garden yeyy
+/publish
